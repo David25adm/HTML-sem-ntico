@@ -48,8 +48,12 @@ margin-bottom: 20px;
     color: white;
     border-radius: 5px;
 }
-
-
+.principal{
+    flex: 1;
+}
+.artigo{
+    flex: 1;
+}
 
 
 
