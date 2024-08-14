@@ -54,6 +54,14 @@ margin-bottom: 20px;
 .artigo{
     flex: 1;
 }
-
+.secao_principal{
+    background-color: #ffa500;
+    padding: 20px;
+    text-align: center;
+    font-size: 20px;
+    color: white;
+    flex: 1.5;
+    border-radius: 5px;
+}
 
 
